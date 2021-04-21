@@ -6,6 +6,8 @@ I'm a Sr. Software Engineer at [Dell][dell], where I make sure production enviro
 
 I also write about technology in a [blog][blog] ⌨️ and contribute to assorted open source projects.
 
+I like understanding how everything works under the hood from transistors and CPU microcode 🔬 to large distributed systems.
+
 > Need help solving hard problems? [Mail me!][mail]
 
 [mail]: mailto:felipe.oltavares@gmail.com
