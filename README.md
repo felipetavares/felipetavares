@@ -2,7 +2,7 @@
 
 # Hi I'm Felipe 💻
 
-I'm a Sr. Software Engineer at [Dell][dell], where I make sure production environments and inter-system boundaries are always reliable through monitoring and automated troubleshooting.
+I'm a Sr. Software Engineer at [Dell][dell], where I make sure production environments and inter-system boundaries are always reliable through monitoring and automated troubleshooting. This sometimeas involves casting spells and powering things off and on again.
 
 I also write about technology in a [blog][blog] and contribute to assorted open source projects.
 
