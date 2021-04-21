@@ -1,5 +1,13 @@
-![linkedin-5](https://user-images.githubusercontent.com/2183824/115181460-638ef900-a0ae-11eb-8d50-7e819b3d9a7c.png)
+![github](https://user-images.githubusercontent.com/2183824/115489910-6a934400-a233-11eb-9a0b-99c57d46252d.png)
 
-Need help solving hard problems? [Mail me!][mail]
+# Hi I'm Felipe 💻
+
+I'm a Sr. Software Engineer at [Dell][dell], where I make sure production environments and inter-system boundaries are always reliable through monitoring and automated troubleshooting.
+
+I also write about technology in a [blog][blog] and contribute to assorted open source projects.
+
+> Need help solving hard problems? [Mail me!][mail]
 
 [mail]: mailto:felipe.oltavares@gmail.com
+[dell]: https://dell.com
+[blog]: felipetavares.com
