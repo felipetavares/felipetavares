@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/2183824/115489910-6a934400-a233-11eb-9a0b-99c57d46252d.png)
 
-# Hi I'm Felipe 💻
+# Hii! I'm Felipe!
 
 I'm a Sr. Software Engineer at [Dell][dell], where I make sure production environments and inter-system boundaries are always reliable through monitoring and automated troubleshooting... which sometimes involves casting spells 📜✨ and powering things off and on again.
 
