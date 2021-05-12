@@ -8,7 +8,7 @@ I also write about computers in a [blog][blog] ✍️ and contribute to assorted
 
 I like understanding how everything works under the hood from transistors and CPU microcode 🔬 to large distributed systems.
 
-My biggest passions in software development are around embedded and graphics.
+My biggest passions in software development are around embedded, compilers and graphics.
 
 > Need help solving hard problems? [Mail me!][mail]
 
