@@ -12,4 +12,4 @@ My biggest passions in software development are around embedded, compilers and g
 
 [mail]: mailto:felipe.oltavares@gmail.com
 [dell]: https://dell.com
-[blog]: felipetavares.com
+[blog]: //felipetavares.com
