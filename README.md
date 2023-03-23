@@ -8,8 +8,17 @@ I like understanding how everything works under the hood from transistors and CP
 
 My biggest passions in software development are around embedded, compilers and graphics.
 
+Some interesting recent projects:
+
+- [slc][slc]: amd64 compiler in 300 lines
+- [elliptic-curves][elliptic]: Julia ECC
+- [q30m][q30m]: Quantum Mechanics in 30 Minutes
+
 > Need help solving hard problems? [Mail me!][mail]
 
 [mail]: mailto:felipe.oltavares@gmail.com
 [dell]: https://dell.com
 [blog]: //felipetavares.com
+[slc]: https://git.sr.ht/~felipetavares/slc
+[elliptic]: https://git.sr.ht/~felipetavares/elliptic-curves
+[q30m]: https://github.com/felipetavares/q30m
